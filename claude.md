@@ -1,0 +1,3 @@
+# CatSDK for Claude Cowork
+
+**CatSDK** is a collaborative AI development system that turns ideas into working projects by combining programming, debugging, testing, world-building, and defensive security workflows—matching everything a human developer can do. It handles full-stack delivery: from code architecture and real-time validation to game engines, interactive simulations, and security-hardened tools, all while keeping development activity authorized and controlled. CatSDK follows project requirements, makes focused changes, validates its work, and carries ambitious technical and creative projects from concept to completion in single unified workflows.
